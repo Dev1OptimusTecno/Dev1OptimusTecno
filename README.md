@@ -1,3 +1,3 @@
-- Hi Im Dev1 from optimus
+- 👋 Hi Im Dev1 from optimus
 
 working on : https://admoptimus.vercel.app/
